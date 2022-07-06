@@ -1,0 +1,153 @@
+
+
+
+
+header {
+  font-family: "Inter", sans-serif;
+  font-size: 30px;
+}
+span{
+  color: rgb(245, 245, 245);
+}
+header p {
+  font-family: 'Poppins', sans-serif;
+  font-weight:100;
+}
+.container img {
+  width: 100%;
+  height: 600px;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 200px;
+  right: 20px;
+  color: #ffffff;
+  padding-left: 307px;
+  padding-right: 174px;
+}
+.btn {
+  background: #18a0c2;
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0px;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+#donate-title {
+  text-align: center;
+}
+
+.donate-section p {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.taka-containr {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.taka {
+  background-color: #e4d4d4;
+  color: #707070;
+  border-radius: 5px;
+  width: 80px;
+  height: 45px;
+  text-align: center;
+  padding-top: 35px;
+}
+#taka-color {
+  background-color: #ffeeee;
+  color: #ff5959;
+  border: 2px solid #ff5959;
+}
+hr {
+  align-items: center;
+  width: 50%;
+}
+#amount {
+  color: #707070;
+}
+button {
+  color: rgb(8, 82, 82);
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 5px;
+}
+#btn-container {
+  display: block;
+  margin-left: 590px;
+
+
+}
+
+/* plan-section----------------------------------- */
+.plan-container {
+  margin-top: 150px;
+}
+.plan-titile h1 {
+  display: flex;
+  justify-content: center;
+}
+.plan-titile p {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.icon-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 80px;
+}
+.icon-container p{
+  font-family: 'Poppins', sans-serif;
+}
+.icon img {
+  width: 50px;
+  height: 45px;
+}
+.icon {
+  border-radius: 2px;
+  background-color: antiquewhite;
+  width: 280;
+  height: 270;
+  padding: 25px;
+  font-size: small;
+}
+#icon-tow {
+  border-radius: 2px;
+  background-color: #8ab6bb;
+  width: 280;
+  height: 270;
+  padding: 25px;
+  font-size: small;
+}
+#icon-three {
+  border-radius: 2px;
+  background-color: #b775bd;
+  width: 280;
+  height: 270;
+  padding: 25px;
+  font-size: small;
+}
+
+/* footer section */
+.footer-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #0B0D17;
+  color: white;
+  margin-top: 80px;
+ 
+  
+}
+footer h2{
+  font-family: 'Lobster', cursive;
+}
+footer p{
+  font-family: 'Poppins', sans-serif;
+}
