@@ -135,7 +135,20 @@ button {
   font-size: small;
 }
 
-
+/* give secti------------------------on */
+.give {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.give-container{
+  display: flex;
+  justify-content: space-evenly;
+  
+ 
+}
+.give-container img{
+  width: 536px;
+}
 /* update section */
 #update-titile {
   display: flex;
